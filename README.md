@@ -52,8 +52,8 @@
 * [Spatial Calibration of the Hyperspectral Line](https://hrcak.srce.hr/file/277822)
 * [A combined image matching method for Chinese ](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2016.1151955)
 * [A Generic Bundle Adjustment Methodology for](https://www.ipol.im/pub/art/2021/352/article_lr.pdf)
-* [Stitching and Geometric Modeling Approach Based on Multi-Slice Satellite Images](file:///D:/Download/remotesensing-13-04663.pdf)
-* [Rigorous Line-Based Transformation Model Using the Generalized Point Strategy for the Rectification](file:///D:/Download/remotesensing-08-00743.pdf)
+* [Stitching and Geometric Modeling Approach Based on Multi-Slice Satellite Images](https://www.mdpi.com/2072-4292/13/22/4663/pdf?version=1637305730)
+* [Rigorous Line-Based Transformation Model Using the Generalized Point Strategy for the Rectification](https://www.researchgate.net/publication/307949504_Rigorous_Line-Based_Transformation_Model_Using_the_Generalized_Point_Strategy_for_the_Rectification_of_High_Resolution_Satellite_Imagery/fulltext/5bcf6d3ca6fdcc204a022022/Rigorous-Line-Based-Transformation-Model-Using-the-Generalized-Point-Strategy-for-the-Rectification-of-High-Resolution-Satellite-Imagery.pdf?origin=publication_detail)
 * [Multistrip Bundle Block Adjustment of ZY-3](http://www.origamesh.com/publication/papers/2015_mbbazsirsmgcp.pdf)
 * [Application of NGA’s GLAS Model to](https://www.militaryexpos.com/wp-content/uploads/2021/09/U_1010_Theiss_GLAS.pdf)
 * [PHOTOGRAMMETRIC MAPPING](https://engineering.purdue.edu/CE/Academics/Groups/Geomatics/DPRG/Courses_Materials/LaserScanning_2020Spring/AKAM_1_Photo_Principles_Release.pdf)
@@ -83,7 +83,6 @@
 * [On-orbit geometric calibration and geometric quality assessment](https://twin.sci-hub.ru/6242/7e66c58286f306c9dff45713f3b42460/wang2017.pdf#navpanes=0&view=FitH)
 * [An Accuracy Analysis of the SGP4SDP4](https://moscow.sci-hub.ru/300/bddf284f2e1889d826aa0aa64f833790/dong2010.pdf#navpanes=0&view=FitH)
 * [SGP4 Orbit Determination](https://www.researchgate.net/profile/David-Vallado/publication/268555889_SGP4_Orbit_Determination/links/547c7a950cf285ad5b05ef55/SGP4-Orbit-Determination.pdf)
-* []()
 
 ### source code
 * [Polynomial and Rational Function Library](https://github.com/jeffrey-hokanson/polyrat/archive/refs/heads/master.zip)
