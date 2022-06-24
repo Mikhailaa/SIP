@@ -1,5 +1,5 @@
 
-## Multimodal remote Sensing image registration
+## Multimodal remote sensing image registration
 ### Papers
 * [A robust feature-based registration method of multimodal image using phase congruency and coherent point drift](https://sci-hub.ru/10.1117/12.2031615.short)
 * [A Two-Step Method for Remote Sensing Images Registration Based on Local and Global Constraints](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9428514)
@@ -11,14 +11,14 @@
 * [MS-HLMO: Multi-scale Histogram of Local Main Orientation for Remote Sensing Image Registration](https://arxiv.org/pdf/2204.00260.pdf)
 
 
-### source code
+### Source code
 * [CFOG](https://github.com/yeyuanxin110/CFOG/archive/refs/heads/main.zip)
 * [MultiSpectral-CoRegistration](https://github.com/widssaguenay/MultiBand-CoRegistration/archive/refs/heads/master.zip)
 * [Image-Registration](https://github.com/ZeLianWen/Image-Registration/archive/refs/heads/master.zip)
 * [VHR_registration](https://github.com/KThoney/VHR_registration/archive/refs/heads/main.zip)
 * [Landsat-and-Sentinel-Image-Registration](https://github.com/chakravardhan/Landsat-and-Sentinel-Image-Registration/archive/refs/heads/master.zip)
 
-## Linear scanner Imagery and Linear geometric correction :
+## Linear scanner Imagery and Linear geometric correction 
 ### Papers
 * [Automatic Geometric Processing for Very High Resolution](https://mdpi-res.com/d_attachment/remotesensing/remotesensing-08-00343/article_deploy/remotesensing-08-00343.pdf)
 * [A New Combined Adjustment Model for Geolocation Accuracy](https://sci-hub.ru/10.3390/rs13030491)
