@@ -6,8 +6,4 @@
 * [AROSICS.7z.004](https://drive.google.com/file/d/1nOcCLFWLlPg_AMiyn6857XX3C8_cMlsv/view?usp=sharing)
 * [AROSICS_coregistration](https://github.com/awi-response/AROSICS_coregistration)
 
-## Linear scanner Imagery and Linear geometric correction 
-* [Automatic Geometric Processing for Very High Resolution](https://mdpi-res.com/d_attachment/remotesensing/remotesensing-08-00343/article_deploy/remotesensing-08-00343.pdf)
-* [A New Combined Adjustment Model for Geolocation Accuracy](https://sci-hub.ru/10.3390/rs13030491)
-* [Rigorous Line-Based Transformation Model Using the Generalized Point Strategy ](https://sci-hub.ru/10.3390/rs8090743)
 
