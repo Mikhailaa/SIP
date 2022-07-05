@@ -6,7 +6,7 @@
 * [AROSICS.7z.004](https://drive.google.com/file/d/1nOcCLFWLlPg_AMiyn6857XX3C8_cMlsv/view?usp=sharing)
 * [AROSICS_coregistration](https://github.com/Mikhailaa/SIP/archive/refs/heads/main.zip)
 
-## pythn packages
+## python packages
 * [geojson](https://files.pythonhosted.org/packages/e4/8d/9e28e9af95739e6d2d2f8d4bef0b3432da40b7c3588fbad4298c1be09e48/geojson-2.5.0-py2.py3-none-any.whl)
 * [geojson source](https://files.pythonhosted.org/packages/b6/8d/c42d3fe6f9b5e5bd6a55d9f03813d674d65d853cb12e6bc56f154a2ceca0/geojson-2.5.0.tar.gz)
 * [srtm4](https://files.pythonhosted.org/packages/8c/73/1d494a20a34d6b4a557b0357a3435e7f2b668719cc79fb688c72a00f53c7/srtm4-1.2.2.tar.gz)
