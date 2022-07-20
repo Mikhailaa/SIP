@@ -4,6 +4,18 @@
 * [StarFM 2](https://github.com/shx951104/remote-sensing-images-fusion/archive/refs/heads/master.zip)
 * [dem](https://insitu.copernicus.eu/library/reports/OverviewofGlobalDEM_i0r7.pdf)
 * [anaconda 3.8](https://repo.anaconda.com/archive/Anaconda3-2020.11-Windows-x86_64.exe)
+* [Performance enhancement of Rational Function Model (RFM) for improved geo-position] (https://feng.stafpu.bu.edu.eg/Surveying%20Engineering/2944/publications/Mohamed%20Ibrahim%20Zahran_Enhancement%20of%20Rational%20Function%20Model%20Paper.pdf)
+* (UNDERSTANDING THE RATIONAL FUNCTION MODEL)[https://www.isprs.org/proceedings/XXXV/congress/comm4/papers/423.pdf]
+*(Implementation of Rational Function Model )[https://www.ijcaonline.org/research/volume125/number10/sudhakar-2015-ijca-906054.pdf]
+*(Application of Rational Function Model to Satellite Images)[https://zero.sci-hub.ru/700/03a9ff2f9c35c6aec6ce6d021d8e2d3d/sohn2003.pdf#navpanes=0&view=FitH]
+*(An automated PCA-based approach towards optimization of the rational)[https://sci-hub.ru/10.1016/j.isprsjprs.2020.05.011]
+*(Improved Direct Linear Transformation for Parameter)[https://sci-hub.ru/10.3390/a9020031]
+*(Camera Calibration with Weighted Direct Linear)[https://sci-hub.ru/10.3390/s20041175]
+*(USING DIRECT LINEAR TRANSFORMATION (DLT) METHOD FOR)[https://media.proquest.com/media/hms/PFT/1/i5JZB?hl=&cit%3Aauth=El-Ashmawy%2C+Khalid+L+A&cit%3Atitle=Using+direct+linear+transformation+%28DLT%29+method+for+aerial+photogrammetry+applications&cit%3Apub=Geodesy+and+Cartography&cit%3Avol=44&cit%3Aiss=3&cit%3Apg=71&cit%3Adate=Oct+2018&ic=true&cit%3Aprod=ProQuest+Preview+Content&_a=ChgyMDIyMDcyMDAwMDY0NDA3OTo0OTEyMTASBzEzODMzMjMaCk9ORV9TRUFSQ0giDjE4OC40My4yMzUuMTc3KgcxNDE2MzUwMgoyMjk2NDEzNjM3Og1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMTgvMTAvMDFyCjIwMTgvMTAvMzF6AIIBIFAtMTAwMDA4NC0yMDEzOTUtU1RBRkYtbnVsbC1udWxskgEGT25saW5lygFvTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMy4wLjAuMCBTYWZhcmkvNTM3LjM20gESU2Nob2xhcmx5IEpvdXJuYWxzmgIHUHJlUGFpZKoCLk9TOkVNUy1Eb2NWaWV3UGRmVXJsU2VydmljZS1nZXRNZWRpYVVybEZvckl0ZW3KAg9BcnRpY2xlfEZlYXR1cmXSAgFZ4gIXaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS%2FyAgD6AgFZggMDV2ViigMcQ0lEOjIwMjIwNzIwMDAwNjQ0MDc5OjkxNjE1MQ%3D%3D&_s=d5emhon5421MxeRiLISAj1F9RSU%3D#view=fitH&statusbar=1]
+*(Rigorous and Non-Rigorous Photogrammetric Processing )[https://d1wqtxts1xzle7.cloudfront.net/43453916/valadan-libre.pdf?1457379106=&response-content-disposition=attachment%3B+filename%3DRigorous_and_Non_Rigorous_Photogrammetri.pdf&Expires=1658279449&Signature=T9DUJCOSheU0jD6sj70tVYzHtd-FwKbxD1pzrajr2M0Dj6logYViWQX5ydCRHEO8jP-1~P0enS~6x9OzjaCjtotDMVMbBN~9KwbjKob4vfzpsJiye~OC~1mO2pm62wE07IIarnD3yiy85gtrXQSniQ6ptOAzhGeiIx3pun17w9j7V-fTlIF8VgilB9b3qmuEu0e5GJOxrmvPfGxOH4I7O~VznlkivmXBhymdMhna3RhUtrqegujRG1iKjbE30UGpVZ0-JfVOf-niT-4ccW81by0KEs3kN8jlGCPhMYUxjoJo5T4EYDtAFYOQ9O1wIWasKtx-cZt~pIzIFQ5j4FyjMA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA]
+*(Epipolar Resampling of Space-borne Linear)[https://www.asprs.org/wp-content/uploads/pers/2006journal/november/2006_nov_1255-1263.pdf]
+*(Accuracy comparison of interior orientation parameters from different )[https://dergipark.org.tr/en/download/article-file/1214816]
+*(Very High Resolution Optical Satellites for DEM )[https://core.ac.uk/download/pdf/33495729.pdf]
 
 ## Package
 * [ 1 ](https://repo.anaconda.com/pkgs/main/win-64/blas-1.0-mkl.conda)
